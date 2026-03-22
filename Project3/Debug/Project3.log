@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\work\상황도\Project3\main.cpp(147,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\work\상황도\Project3\main.cpp(148,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+main.obj : error LNK2019: _GDALAllRegister@0_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: _GDALOpen@8_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: _GDALClose@4_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: class GDALRasterBand * __thiscall GDALDataset::GetRasterBand(int)" (?GetRasterBand@GDALDataset@@QAEPAVGDALRasterBand@@H@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: "public: enum CPLErr __thiscall GDALRasterBand::RasterIO(enum GDALRWFlag,int,int,int,int,void *,int,int,enum GDALDataType,__int64,__int64,struct GDALRasterIOExtraArg *)" (?RasterIO@GDALRasterBand@@QAE?AW4CPLErr@@W4GDALRWFlag@@HHHHPAXHHW4GDALDataType@@_J3PAUGDALRasterIOExtraArg@@@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\work\상황도\gdal_sdk\lib\gdal_i.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+D:\work\상황도\gdal_sdk\lib\proj9.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+D:\work\상황도\Project3\Debug\Project3.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.

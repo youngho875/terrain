@@ -1,0 +1,2 @@
+D:\work\상황도\Project3\x64\Debug\Project3.exe
+D:\dev\Project3\x64\Debug\Project3.exe
