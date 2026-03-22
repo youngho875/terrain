@@ -1,0 +1,2 @@
+D:\work\상황도\Project5\x64\Release\Project5.exe
+D:\dev\Project5\x64\Release\Project5.exe
