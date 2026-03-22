@@ -1,0 +1,1431 @@
+﻿     0>$(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       확장 경로 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild을(를) 사용하여 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props을(를) 가져옵니다.
+       속성 재할당: $(MSBuildProjectExtensionsPath)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Microsoft.Common.props(57,5)의 "D:\work\상황도\Project1\obj\"(이전 값: "obj\")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       확장 경로 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild을(를) 사용하여 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\*을(를) 가져옵니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       "Configuration" 속성은 전역 속성이므로 수정할 수 없습니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       "Configuration" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(PlatformToolset)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Platforms\Win32\Platform.Default.props(29,5)의 "v100"(이전 값: "")
+       "LangID" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionDir" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(UseDebugLibraries)=D:\work\상황도\Project1\Project1.vcxproj(31,5)의 "true"(이전 값: "false")
+       속성 재할당: $(PlatformToolset)=D:\work\상황도\Project1\Project1.vcxproj(32,5)의 "v142"(이전 값: "v100")
+       속성 재할당: $(CharacterSet)=D:\work\상황도\Project1\Project1.vcxproj(33,5)의 "Unicode"(이전 값: "NotSet")
+       속성 재할당: $(WindowsSDK_ExecutablePath_x86)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.props(199,5)의 "C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools"(이전 값: "C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;")
+       속성 재할당: $(WindowsSDK_ExecutablePath_x64)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.props(200,5)의 "C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64"(이전 값: "C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;")
+       속성 재할당: $(TargetExt)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(28,5)의 ".exe"(이전 값: "")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(94,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;"(이전 값: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(95,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;"(이전 값: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(96,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;;"(이전 값: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(97,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;;;"(이전 값: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(98,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;;;;"(이전 값: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;;;")
+       속성 재할당: $(VC_ExecutablePath_Loc)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(99,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\arm64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;;;;;"(이전 값: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1042;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1042;;;;;;;")
+       속성 재할당: $(RemoteDebuggerDeployDebugCppRuntime)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(149,5)의 "true"(이전 값: "false")
+       속성 재할당: $(MultiProcMaxCount)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props(207,5)의 "0"(이전 값: "")
+       속성 재할당: $(EspXtensions)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props(21,5)의 "EnumIndex.dll;CppCoreCheck.dll;"(이전 값: "CppCoreCheck.dll;")
+       속성 재할당: $(EspXtensions)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props(24,5)의 "HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;"(이전 값: "EnumIndex.dll;CppCoreCheck.dll;")
+       속성 재할당: $(EspXtensions)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props(27,5)의 "VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;"(이전 값: "HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;")
+       속성 재할당: $(EspXtensions)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props(32,5)의 "ConcurrencyCheck.dll;VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;"(이전 값: "VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;")
+       속성 재할당: $(MsvcAnalysisToolsPath)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Analysis.props(28,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86"(이전 값: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86")
+       속성 재할당: $(_PropertySheetDisplayName)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.unicodesupport.props(15,5)의 "Unicode Support"(이전 값: "Core Windows Libraries")
+       속성 재할당: $(_PropertySheetDisplayName)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Application.props(15,5)의 "Application"(이전 값: "Unicode Support")
+       "SolutionExt" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(ExtensionsToDeleteOnClean)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(38,5)의 "*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;D:\work\상황도\Project1\Debug\Project1.exe.manifest;D:\work\상황도\Project1\Debug\Project1.tlb;D:\work\상황도\Project1\Debug\Project1.pdb;D:\work\상황도\Project1\Debug\Project1.exe;D:\work\상황도\Project1\Debug\Project1.bsc;D:\work\상황도\Project1\Debug\Project1.ilk;D:\work\상황도\Project1\Debug\Project1.exe.intermediate.manifest;"(이전 값: "*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       확장 경로 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild을(를) 사용하여 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportBefore\*을(를) 가져옵니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       "Configuration" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(_DocumentationFileProduced)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(186,5)의 "false"(이전 값: "true")
+       "DevEnvDir" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionName" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionFileName" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionPath" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionDir" 속성은 전역 속성이므로 수정할 수 없습니다.
+       "SolutionExt" 속성은 전역 속성이므로 수정할 수 없습니다.
+       속성 재할당: $(AutoUnifyAssemblyReferences)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(369,5)의 "false"(이전 값: "true")
+       속성 재할당: $(DelaySign)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(558,5)의 ""(이전 값: "false")
+       속성 재할당: $(_SGenGenerateSerializationAssembliesConfig)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3612,5)의 "Auto"(이전 값: "")
+       속성 재할당: $(_SGenGenerateSerializationAssembliesConfig)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3613,5)의 "Off"(이전 값: "Auto")
+       속성 재할당: $(_CodeAnalysisTreatWarningsAsErrors)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(125,5)의 "false"(이전 값: "")
+       속성 재할당: $(CAExcludePath)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(235,5)의 "C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;"(이전 값: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;")
+       속성 재할당: $(CAExcludePath)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(236,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;"(이전 값: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;")
+       속성 재할당: $(CAExcludePath)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(237,5)의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;"(이전 값: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;")
+       속성 재할당: $(PrepareForBuildDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets(240,5)의 ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables"(이전 값: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       속성 재할당: $(ResolveReferencesDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets(75,5)의 "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           "(이전 값: "
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ")
+       속성 재할당: $(PrepareResourceNamesDependsOn)=C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets(97,7)의 "
+                           AssignWinFXEmbeddedResource;
+                           
+             AssignTargetPaths;
+             SplitResourcesByCulture;
+             CreateManifestResourceNames;
+             CreateCustomManifestResourceNames
+           
+             "(이전 값: "
+             AssignTargetPaths;
+             SplitResourcesByCulture;
+             CreateManifestResourceNames;
+             CreateCustomManifestResourceNames
+           ")
+       속성 재할당: $(PrepareResourcesDependsOn)=C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets(108,7)의 "
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+             "(이전 값: "
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ")
+       속성 재할당: $(CompileDependsOn)=C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets(184,5)의 "
+               
+             ResolveReferences;
+             ResolveKeySource;
+             SetWin32ManifestProperties;
+             FindReferenceAssembliesForReferences;
+             _GenerateCompileInputs;
+             BeforeCompile;
+             _TimeStampBeforeCompile;
+             _GenerateCompileDependencyCache;
+             CoreCompile;
+             _TimeStampAfterCompile;
+             AfterCompile;
+           ;
+               _AfterCompileWinFXInternal
+           "(이전 값: "
+             ResolveReferences;
+             ResolveKeySource;
+             SetWin32ManifestProperties;
+             FindReferenceAssembliesForReferences;
+             _GenerateCompileInputs;
+             BeforeCompile;
+             _TimeStampBeforeCompile;
+             _GenerateCompileDependencyCache;
+             CoreCompile;
+             _TimeStampAfterCompile;
+             AfterCompile;
+           ")
+       속성 재할당: $(PublishBuildDependsOn)=C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets(813,9)의 "
+                   BuildOnlySettings;
+                   PrepareForBuild;
+                   ResolveReferences;
+                   PrepareResources;
+                   ResolveKeySource;
+                   PrepareResourcesForSatelliteAssemblies;
+                   GenerateSerializationAssemblies;
+                   CreateSatelliteAssemblies;
+               "(이전 값: "
+             BuildOnlySettings;
+             PrepareForBuild;
+             ResolveReferences;
+             PrepareResources;
+             ResolveKeySource;
+             GenerateSerializationAssemblies;
+             CreateSatelliteAssemblies;
+           ")
+       속성 재할당: $(BuildDependsOn)=C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets(35,5)의 "
+             EntityDeploy;
+             
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           
+           "(이전 값: "
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ")
+       속성 재할당: $(CleanDependsOn)=C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets(42,5)의 "
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           "(이전 값: "
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       속성 재할당: $(PrepareResourcesDependsOn)=C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets(35,5)의 "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           "(이전 값: "
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+             ")
+       속성 재할당: $(CoreCompileDependsOn)=C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets(76,5)의 "
+               DesignTimeXamlMarkupCompilation;
+               
+                 DesignTimeMarkupCompilation;
+                 
+             
+           "(이전 값: "
+                 DesignTimeMarkupCompilation;
+                 
+             ")
+       속성 재할당: $(ResolveReferencesDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\TeamTest\Microsoft.TeamTest.targets(4,5)의 "
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           "(이전 값: "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       확장 경로 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild을(를) 사용하여 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\*을(를) 가져옵니다.
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       확장 경로 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild을(를) 사용하여 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Sdks\Microsoft.Docker.Sdk\build\Microsoft.Docker.targets을(를) 가져옵니다.
+       속성 재할당: $(ProjectLockFile)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets(74,5)의 "obj\project.assets.json"(이전 값: "D:\work\상황도\Project1\obj\project.assets.json")
+       속성 재할당: $(ResolveAssemblyReferencesDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets(185,5)의 "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets"(이전 값: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ")
+       속성 재할당: $(PrepareResourcesDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets(186,5)의 "ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           "(이전 값: "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           ")
+       속성 재할당: $(_HandlePackageFileConflictsAfter)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets(267,5)의 "ResolveNuGetPackageAssets;ResolveNuGetPackageAssetsNonAOT"(이전 값: "ResolveNuGetPackageAssets")
+       $(MSBuildExtensionsPath)에 사용 중인 검색 경로는 C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild;$(MSBuildProgramFiles32)\MSBuild입니다.
+       속성 재할당: $(DebugType)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(37,5)의 ""(이전 값: "none")
+       속성 재할당: $(BuildDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(119,5)의 "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           "(이전 값: "
+             EntityDeploy;
+             
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           
+           ")
+       속성 재할당: $(RebuildDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(127,5)의 "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           "(이전 값: "
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ")
+       속성 재할당: $(CleanDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(132,5)의 "
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           "(이전 값: "
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ")
+       속성 재할당: $(BeforeBuildGenerateSourcesTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(61,5)의 "
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           "(이전 값: "
+             ;
+             BeforeBuildGenerateSources;
+           ")
+       속성 재할당: $(AfterBuildGenerateSourcesTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(72,5)의 "
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           "(이전 값: "
+             ;
+             AfterBuildGenerateSources;
+           ")
+       속성 재할당: $(BuildGenerateSourcesAction)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(142,5)의 "_BuildGenerateSourcesAction"(이전 값: "Build")
+       속성 재할당: $(BuildCompileAction)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(143,5)의 "_BuildCompileAction"(이전 값: "Build")
+       속성 재할당: $(BuildLinkAction)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(144,5)의 "_BuildLinkAction"(이전 값: "Build")
+       속성 재할당: $(GetReferenceAssemblyPathsDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(149,5)의 "_PrepareForReferenceResolution;
+               ;
+               GetWinFXPath
+           "(이전 값: "
+               ;
+               GetWinFXPath
+           ")
+       속성 재할당: $(DetermineProjectTypeTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(251,5)의 "_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           "(이전 값: "
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ")
+       속성 재할당: $(ResolveReferencesDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(311,5)의 "_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           "(이전 값: "
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           ")
+       속성 재할당: $(ResolveAssemblyReferencesDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(312,5)의 "_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets"(이전 값: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets")
+       속성 재할당: $(ResolveSDKReferencesDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(313,5)의 "_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           "(이전 값: "
+             GetInstalledSDKLocations
+           ")
+       속성 재할당: $(ComputeCompileInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(612,5)의 "
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           "(이전 값: "
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(925,5)의 "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           "(이전 값: "
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ")
+       속성 재할당: $(GetTargetPathDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1095,5)의 "_PrepareForReferenceResolution;GetResolvedWinMD;"(이전 값: "")
+       속성 재할당: $(ComputeCompileInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1121,5)의 "
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           "(이전 값: "
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1173,5)의 "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           "(이전 값: "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1180,5)의 "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           "(이전 값: "
+             ;
+             ComputeRCGeneratedLibInputs;
+           ")
+       속성 재할당: $(ComputeImpLibInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1187,5)의 "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           "(이전 값: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1247,5)의 "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           "(이전 값: "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1262,5)의 "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           "(이전 값: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ")
+       속성 재할당: $(ComputeImpLibInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1277,5)의 "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           "(이전 값: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1308,5)의 "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           "(이전 값: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1326,5)의 "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           "(이전 값: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ")
+       속성 재할당: $(ComputeImpLibInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1344,5)의 "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+             ComputeImpLibInputsFromProject;
+           "(이전 값: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ")
+       속성 재할당: $(ComputeLinkInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1488,5)의 "
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ;
+             ComputeReferenceLinkInputs;
+           "(이전 값: "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1526,5)의 "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           "(이전 값: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ")
+       속성 재할당: $(ComputeLibInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1583,5)의 "
+             ComputeLibAdditionalOptions;
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           
+           "(이전 값: "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ")
+       속성 재할당: $(GetProjectInfoForReferenceDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1770,5)의 "
+             
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ;
+             AddPublicBMIsToProjectsInfoForReference;
+             AddDeployRecipeFileToProjectsInfoForReference;
+             AddLibrariesToProjectsInfoForReference;
+           "(이전 값: "
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ")
+       속성 재할당: $(DocumentationProjectOutputGroupDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(2157,5)의 "ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles"(이전 값: "")
+       속성 재할당: $(ContentFilesProjectOutputGroupDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(2223,5)의 "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc"(이전 값: "PrepareForBuild;AssignTargetPaths")
+       속성 재할당: $(ComputeCompileInputsTargets)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(302,5)의 "
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             ;
+             FixupCLCompileOptions;
+           "(이전 값: "
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ")
+       속성 재할당: $(BuildingProject)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1990,5)의 "true"(이전 값: "false")
+       속성 재할당: $(ContentFilesProjectOutputGroupDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(2517,5)의 "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;"(이전 값: "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc")
+       속성 재할당: $(PrepareForBuildDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.targets(16,5)의 "_CheckWindowsSDKInstalled;;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables"(이전 값: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables")
+       속성 재할당: $(CleanDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(22,5)의 "
+             
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           ;
+             CppClean
+           "(이전 값: "
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           ")
+       속성 재할당: $(CppCleanDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(92,5)의 "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean"(이전 값: "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ")
+       속성 재할당: $(BuildDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets(540,5)의 "SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           "(이전 값: "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ")
+       속성 재할당: $(RebuildDependsOn)=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets(541,5)의 "SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           "(이전 값: "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ")
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GetFrameworkPaths" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets" 프로젝트의 "GetFrameworkPaths" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "SatelliteDllsProjectOutputGroup" 대상을 "C:\windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets" 프로젝트의 "SatelliteDllsProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GenerateTargetFrameworkMonikerAttribute" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" 프로젝트의 "GenerateTargetFrameworkMonikerAttribute" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "Build" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" 프로젝트의 "Build" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "Rebuild" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" 프로젝트의 "Rebuild" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "AfterBuild" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" 프로젝트의 "AfterBuild" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "PrepareForBuild" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "PrepareForBuild" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GetTargetPath" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "GetTargetPath" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "ComputeIntermediateSatelliteAssemblies" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ComputeIntermediateSatelliteAssemblies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ClCompile" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ClCompile" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ResourceCompile" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ResourceCompile" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "Lib" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "Lib" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "Link" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "Link" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "AllProjectOutputGroups" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "AllProjectOutputGroups" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "BuiltProjectOutputGroup" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "BuiltProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "DebugSymbolsProjectOutputGroup" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "DebugSymbolsProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "DocumentationProjectOutputGroup" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "DocumentationProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "SourceFilesProjectOutputGroup" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "SourceFilesProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "ContentFilesProjectOutputGroup" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ContentFilesProjectOutputGroup" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "AllProjectOutputGroupsDependencies" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "AllProjectOutputGroupsDependencies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "BuiltProjectOutputGroupDependencies" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "BuiltProjectOutputGroupDependencies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "DebugSymbolsProjectOutputGroupDependencies" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "DebugSymbolsProjectOutputGroupDependencies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "DocumentationProjectOutputGroupDependencies" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "DocumentationProjectOutputGroupDependencies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "PreBuildEvent" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "PreBuildEvent" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "PostBuildEvent" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "PostBuildEvent" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ClCompile" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "ClCompile" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "Link" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "Link" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "Lib" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "Lib" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ImpLib" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "ImpLib" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "Midl" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "Midl" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "ResourceCompile" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "ResourceCompile" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "BeforeResGen" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "BeforeResGen" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "ResGen" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "ResGen" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GenerateSatelliteAssemblies" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "GenerateSatelliteAssemblies" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "Manifest" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "Manifest" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "XdcMake" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "XdcMake" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 프로젝트의 "BscMake" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "BscMake" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets" 프로젝트의 "ComputeMetaGenInputs" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "ComputeMetaGenInputs" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GetNativeManifest" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 프로젝트의 "GetNativeManifest" 대상으로 재정의하고 있습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 프로젝트의 "GetTargetPathWithTargetPlatformMoniker" 대상을 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets" 프로젝트의 "GetTargetPathWithTargetPlatformMoniker" 대상으로 재정의하고 있습니다.
+빌드 시작: 2025-10-20 오전 11:10:38
+로깅의 세부 정보 표시가 Detailed(으)로 설정되었습니다.     1>2 노드의 "D:\work\상황도\Project1\Project1.vcxproj" 프로젝트(Build 대상)입니다.
+     1>도구 버전 "Current"(을)를 사용하여 빌드하고 있습니다.
+       조건이 잘못되어 "EnableIntermediateOutputPathMismatchWarning" 대상을 건너뜁니다. ('$(RestoreProjectStyle)' == 'PackageReference')이(가) ('' == 'PackageReference')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_CheckForInvalidConfigurationAndPlatform" 대상("SetTelemetryEnvironmentVariables" 대상이 종속됨):
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ( '$(_InvalidConfigurationError)' == 'true' )이(가) ( '' == 'true' )(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ( '$(_InvalidConfigurationWarning)' == 'true' )이(가) ( '' == 'true' )(으)로 확인되었습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "Message" 작업을 사용합니다.
+       "Message" 작업
+         Configuration=Debug
+       "Message" 작업을 실행했습니다.
+       "Message" 작업
+         Platform=Win32
+       "Message" 작업을 실행했습니다.
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)'))이(가) ('D:\work\상황도\Project1\Debug\' != '' and !HasTrailingSlash('D:\work\상황도\Project1\Debug\'))(으)로 확인되었습니다.
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)'))이(가) ('Debug\' != '' and !HasTrailingSlash('Debug\'))(으)로 확인되었습니다.
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)'))이(가) ('obj\' != '' and !HasTrailingSlash('obj\'))(으)로 확인되었습니다.
+       조건이 잘못되어 "Error" 작업을 건너뜁니다. ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' )이(가) ( 'D:\work\상황도\Project1\obj\' != '' And 'D:\work\상황도\Project1\obj\' != 'D:\work\상황도\Project1\obj\' )(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' )이(가) ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'D:\work\상황도\Project1\obj\' )(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "_CheckForInvalidConfigurationAndPlatform" 대상을 빌드했습니다.
+       "_CheckForInvalidConfigurationAndPlatform" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets" 파일에 있는 "SetTelemetryEnvironmentVariables" 대상("Build" 대상이 종속됨):
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "SetEnv" 작업을 사용합니다.
+       "SetEnv" 작업
+         VSTEL_SolutionSessionID={F6FCC5B5-668D-4B5E-AA57-C99C298DD427}
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         VSTEL_CurrentSolutionBuildID=4284614606
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         VSTEL_ProjectID={fe61d87d-f3e7-4135-853f-fa46353fb6ad}
+       "SetEnv" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "SetTelemetryEnvironmentVariables" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" 파일에 있는 "_PrepareForBuild" 대상("Build" 대상이 종속됨):
+       조건이 잘못되어 "CreateItem" 작업을 건너뜁니다. ('%(CustomBuild.IncludeFileToTool)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "_PrepareForBuild" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "_PrepareForReferenceResolution" 대상("ResolveReferences" 대상이 종속됨):
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('$(_REFERENCE_DEBUG)'=='true')이(가) (''=='true')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "_PrepareForReferenceResolution" 대상을 빌드했습니다.
+       조건이 잘못되어 "ComputeCrtSDKReference" 대상을 건너뜁니다. ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false')이(가) ('wmstest.cpp'!='' and 'false'=='true' and '' != 'false')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BeforeResolveReferences" 대상("ResolveReferences" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "BeforeResolveReferences" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "AssignProjectConfiguration" 대상("ResolveReferences" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "AssignProjectConfiguration" 작업을 사용합니다.
+       "AssignProjectConfiguration" 작업
+       "AssignProjectConfiguration" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "AssignProjectConfiguration" 대상을 빌드했습니다.
+       "AssignProjectConfiguration" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_SplitProjectReferencesByFileExistence" 대상("PrepareProjectReferences" 대상이 종속됨):
+       조건이 잘못되어 "ResolveNonMSBuildProjectOutput" 작업을 건너뜁니다. ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='')이(가) ('true'=='true' and ''!='')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "_SplitProjectReferencesByFileExistence" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_AddOutputPathToGlobalPropertiesToRemove" 대상("_GetProjectReferenceTargetFrameworkProperties" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "_AddOutputPathToGlobalPropertiesToRemove" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "_GetProjectReferenceTargetFrameworkProperties" 대상("PrepareProjectReferences" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "MSBuild" 작업을 사용합니다.
+       "MSBuild" 작업
+       "MSBuild" 작업을 실행했습니다.
+       조건이 잘못되어 "GetReferenceNearestTargetFrameworkTask" 작업을 건너뜁니다. ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' == 'true')이(가) ('0' != '0' and '.NETFramework,Version=v4.0' != ''
+                                                               And 'true' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "GetReferenceNearestTargetFrameworkTask" 작업을 건너뜁니다. ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' != 'true')이(가) ('0' != '0' and '.NETFramework,Version=v4.0' != ''
+                                                               And 'true' != 'true')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "_GetProjectReferenceTargetFrameworkProperties" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "PrepareProjectReferences" 대상("ResolveProjectReferences" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "PrepareProjectReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "_RemoveNameMetadataFromProjectReferenceItems" 대상을 건너뜁니다. ('@(ProjectReference)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ResolveProjectReferences" 대상("ResolveReferences" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '16.0' != '10.0' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == 'true' and '' != '' and 'true' == 'true' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '')이(가) ('' != '' and '' != '')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "ResolveProjectReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "FindInvalidProjectReferences" 대상을 건너뜁니다. ('$(FindInvalidProjectReferences)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "ResolveNativeReferences" 대상을 건너뜁니다. ('@(NativeReference)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       "_PrepareForReferenceResolution" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "FindInvalidProjectReferences" 대상을 건너뜁니다. ('$(FindInvalidProjectReferences)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets" 파일에 있는 "GetFrameworkPaths" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "GetFrameworkPaths" 대상을 빌드했습니다.
+       "_PrepareForReferenceResolution" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "GetWinFXPath" 대상을 건너뜁니다. (('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' ))이(가) (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' ))(으)로 확인되었습니다.
+       "GetFrameworkPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "GetReferenceAssemblyPaths" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+       조건이 잘못되어 "GetReferenceAssemblyPaths" 작업을 건너뜁니다. ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == ''))이(가) ('' != '' and ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '' or 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == ''))(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "GetReferenceAssemblyPaths" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets" 파일에 있는 "AddExternalIncludDirectoriesToPaths" 대상("SetBuildDefaultEnvironmentVariables" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "AddExternalIncludDirectoriesToPaths" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets" 파일에 있는 "SetBuildDefaultEnvironmentVariables" 대상("PrepareForBuild" 대상이 종속됨):
+       "SetEnv" 작업
+         PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin;C:\windows\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Program Files (x86)\Iqpad\ubCUBE;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Go\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;d:\work\상황도\gdal_sdk\bin\proj9\SHARE;C:\Program Files\Git\cmd;C:\Program Files\CMake\bin;C:\Program Files (x86)\dotnet-core-uninstall\;jdk-17.0.13.11-hotspot\bin;D:\cygwin64\bin;D:\cygwin64\usr\include;D:\Apache24;D:\Apache24\bin;C:\Program Files (x86)\IncrediBuild;C:\Python312\Scripts\;C:\Python312\;C:\Users\유영호(일반)\AppData\Local\Microsoft\WindowsApps;C:\Users\유영호(일반)\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\유영호(일반)\AppData\Roaming\npm;C:\Users\유영호(일반)\go\bin;C:\Users\유영호(일반)\AppData\Local\Microsoft\WinGet\Links;;C:\Program Files (x86)\ESTsoft\ALSee\x64;
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         LIB=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x86;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86;
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         LIBPATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\lib\x86;
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       "SetEnv" 작업을 실행했습니다.
+       "SetEnv" 작업
+         EXTERNAL_INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       "SetEnv" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "SetBuildDefaultEnvironmentVariables" 대상을 빌드했습니다.
+       조건이 잘못되어 "SetUserMacroEnvironmentVariables" 대상을 건너뜁니다. ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true')이(가) ('' != '' and '' != 'true')(으)로 확인되었습니다.
+       "_PrepareForReferenceResolution" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "GetResolvedWinMD" 대상("PrepareForBuild" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "GetResolvedWinMD" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.targets" 파일에 있는 "_CheckWindowsSDKInstalled" 대상("PrepareForBuild" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(WindowsSDKInstalled)' != 'true')이(가) ('true' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(WindowsAppContainer)' != 'true' and '$(WindowsSDK_Desktop_Support)' != true)이(가) ('false' != 'true' and 'true' != true)(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "_CheckWindowsSDKInstalled" 대상을 빌드했습니다.
+       "GetFrameworkPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "GetReferenceAssemblyPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "AssignLinkMetadata" 대상을 건너뜁니다. ( '$(SynthesizeLinkMetadata)' == 'true' )이(가) ( '' == 'true' )(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" 파일에 있는 "SetCABuildNativeEnvironmentVariables" 대상("PrepareForBuild" 대상이 종속됨):
+       "SetEnv" 작업
+         CAExcludePath=C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       "SetEnv" 작업을 실행했습니다.
+       조건이 잘못되어 "SetEnv" 작업을 건너뜁니다. ('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true')이(가) ('false'=='true' and 'true'=='true')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "SetCABuildNativeEnvironmentVariables" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "PrepareForBuild" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true')이(가) ('' != 'true' and 'true' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true')이(가) ('' != 'true' and 'true' != 'true')(으)로 확인되었습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "MakeDir" 작업을 사용합니다.
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary')이(가) (''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' ))이(가) (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\'=='' and '' != 'true' and ('v4.0'=='v3.5' or 'v4.0'=='v3.0' or 'v4.0'=='v2.0' ))(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90')이(가) (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\'=='' and '' != 'true' and 'v142'=='v90')(으)로 확인되었습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "CheckVCToolsetVersion" 작업을 사용합니다.
+       "CheckVCToolsetVersion" 작업
+       "CheckVCToolsetVersion" 작업을 실행했습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '')이(가) ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\mfcs140.lib) and '' == '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '')이(가) ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\mfcs140.lib) and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '')이(가) ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib) and '' == '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '')이(가) ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib) and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)'=='true' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(_VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_OneCore_CurrentPlatform_spectre)')) or
+                                                                ('$(_VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_Desktop_CurrentPlatform_spectre)'))))이(가) ('' != 'true' and
+                                                               'true'=='true' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('Desktop' == 'OneCore' and !Exists('C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\lib\spectre\onecore\x86')) or
+                                                                ('Desktop' == 'Desktop' and !Exists('C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\lib\spectre\x86'))))(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true')이(가) (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\'=='' and '' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true')이(가) (''!='true' and 'C:\Program Files (x86)\Windows Kits\10\'=='' and '' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true')이(가) (''!='true' and ''=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true')이(가) (''!='true' and ''=='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true')이(가) ('' != '' and ''!='true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true')이(가) ('' != 'true' and '' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(IntDirFullPath.StartsWith($(Tmp), true, null))' == 'true' or '$(IntDirFullPath.StartsWith($(Temp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(Tmp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(Temp), true, null))' == 'true'))이(가) (''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true'))(으)로 확인되었습니다.
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "PrepareForBuild" 대상을 빌드했습니다.
+       "_PrepareForReferenceResolution" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "ComputeCrtSDKReference" 대상을 건너뜁니다. ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false')이(가) ('wmstest.cpp'!='' and 'false'=='true' and '' != 'false')(으)로 확인되었습니다.
+       조건이 잘못되어 "GetInstalledSDKLocations" 대상을 건너뜁니다. ('@(SDKReference)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ResolveSDKReferences" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+       조건이 잘못되어 "ResolveSDKReference" 작업을 건너뜁니다. ('@(SDKReference)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "ResolveSDKReferences" 대상을 빌드했습니다.
+       "ResolveSDKReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ExpandSDKReferences" 대상("ResolveAssemblyReferences" 대상이 종속됨):
+       조건이 잘못되어 "GetSDKReferenceFiles" 작업을 건너뜁니다. ('@(ResolvedSDKReference)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "ExpandSDKReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "ResolveNuGetPackageAssets" 대상을 건너뜁니다. ('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)'))이(가) ('true' == 'true' and exists('obj\project.assets.json'))(으)로 확인되었습니다.
+       조건이 잘못되어 "ImplicitlyExpandNETStandardFacades" 대상을 건너뜁니다. ('$(ImplicitlyExpandNETStandardFacades)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "_HandlePackageFileConflicts" 대상을 건너뜁니다. ('@(Reference)' != '' Or '@(ReferenceCopyLocalPaths)' != '')이(가) ('' != '' Or '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "ImplicitlyExpandNETStandardFacades" 대상을 건너뜁니다. ('$(ImplicitlyExpandNETStandardFacades)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ResolveAssemblyReferences" 대상("ResolveReferences" 대상이 종속됨):
+       조건이 잘못되어 "ResolveAssemblyReference" 작업을 건너뜁니다. ('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '')이(가) (''!='' or ''!='' or '' != '')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "ResolveAssemblyReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "GenerateBindingRedirects" 대상을 건너뜁니다. ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true')이(가) ('' == 'true' and 'true' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "_RemoveZipFileSuggestedRedirect" 대상을 건너뜁니다. ('$(_TargetFrameworkVersionWithoutV)' >= '4.7.1' And '$(AllowZipFileRedirect)' != 'true')이(가) ('4.0' >= '4.7.1' And '' != 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "GenerateBindingRedirectsUpdateAppConfig" 대상을 건너뜁니다. ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)'))이(가) ('' == 'true' and 'true' == 'true' and Exists('Debug\Project1.exe.config'))(으)로 확인되었습니다.
+       조건이 잘못되어 "ResolveComReferences" 대상을 건너뜁니다. ('@(COMReference)'!='' or '@(COMFileReference)'!='')이(가) (''!='' or ''!='')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "AfterResolveReferences" 대상("ResolveReferences" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "AfterResolveReferences" 대상을 빌드했습니다.
+       조건이 잘못되어 "ImplicitlyExpandDesignTimeFacades" 대상을 건너뜁니다. ('$(ImplicitlyExpandDesignTimeFacades)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "ResolveTestReferences" 대상을 건너뜁니다. ('@(Shadow)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "ResolveReferences" 대상("Build" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ResolveReferences" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "InitializeBuildStatus" 대상("Build" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "ReadLinesFromFile" 작업을 사용합니다.
+       "ReadLinesFromFile" 작업
+       "ReadLinesFromFile" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "WriteLinesToFile" 작업을 사용합니다.
+       "WriteLinesToFile" 작업
+       "WriteLinesToFile" 작업을 실행했습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "Touch" 작업을 사용합니다.
+       "Touch" 작업
+         "Debug\Project1.tlog\unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       "Touch" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "InitializeBuildStatus" 대상을 빌드했습니다.
+       "PrepareProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildGenerateSourcesTraverse" 대상("BuildGenerateSources" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')이(가) ('' == 'true' and '' != '' and '' != '' and '' == 'true')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "BuildGenerateSourcesTraverse" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" 파일에 있는 "BeforeBuildGenerateSources" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "BeforeBuildGenerateSources" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 파일에 있는 "PreBuildEvent" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '')이(가) ('' != '' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('%(PreBuildEvent.Command)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "PreBuildEvent" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "InitializeBuildStatus" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "SetBuildDefaultEnvironmentVariables" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "SetUserMacroEnvironmentVariables" 대상을 건너뜁니다. ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true')이(가) ('' != '' and '' != 'true')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "_SelectedFiles" 대상("SelectCustomBuild" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "_SelectedFiles" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "SelectCustomBuild" 대상("CustomBuild" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "SelectCustomBuild" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCustomBuildOutput" 대상("CustomBuild" 대상이 종속됨):
+       조건이 잘못되어 "CreateItem" 작업을 건너뜁니다. ('%(CustomBuildOutputs.OutputItemType)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "ComputeCustomBuildOutput" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 파일에 있는 "CustomBuild" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "GetOutOfDateItems" 작업을 사용합니다.
+       "GetOutOfDateItems" 작업
+       "GetOutOfDateItems" 작업을 실행했습니다.
+       "GetOutOfDateItems" 작업
+       "GetOutOfDateItems" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "CustomBuild" 대상을 빌드했습니다.
+       조건이 잘못되어 "FxExport" 대상을 건너뜁니다. ('@(FxCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "FxCompile" 대상을 건너뜁니다. ('@(FxCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "_CreateCopyFileItems" 대상을 건너뜁니다. ('@(CopyFileToFolders)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       "_SelectedFiles" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 파일에 있는 "CopyFileToFolders" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+       "GetOutOfDateItems" 작업
+       "GetOutOfDateItems" 작업을 실행했습니다.
+       조건이 잘못되어 "Copy" 작업을 건너뜁니다. ('@(_OutOfDateCopyFile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "CopyFileToFolders" 대상을 빌드했습니다.
+       조건이 잘못되어 "Xsd" 대상을 건너뜁니다. ('@(Xsd)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "_Xsd" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "_Xsd" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForMidl" 대상("_Midl" 대상이 종속됨):
+       "Makedir" 작업
+       "Makedir" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "MakeDirsForMidl" 대상을 빌드했습니다.
+       조건이 잘못되어 "Midl" 대상을 건너뜁니다. ('@(Midl)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "FxExport" 대상을 건너뜁니다. ('@(FxCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "FxCompile" 대상을 건너뜁니다. ('@(FxCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeMIDLGeneratedCompileInputs" 대상("_Midl" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeMIDLGeneratedCompileInputs" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "AfterMidl" 대상("_Midl" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "AfterMidl" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "_Midl" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "_Midl" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" 파일에 있는 "AfterBuildGenerateSources" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "AfterBuildGenerateSources" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "AfterBuildGenerateSourcesEvent" 대상("_BuildGenerateSourcesAction" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "AfterBuildGenerateSourcesEvent" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "_BuildGenerateSourcesAction" 대상("BuildGenerateSources" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "_BuildGenerateSourcesAction" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildGenerateSources" 대상("Build" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "BuildGenerateSources" 대상을 빌드했습니다.
+       "PrepareProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildCompileTraverse" 대상("BuildCompile" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')이(가) ('' == 'true' and '' != '' and '' != ''  and '' == 'true')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "BuildCompileTraverse" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "BeforeClCompile" 대상("_ClCompile" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "BeforeClCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "GenerateTargetFrameworkMonikerAttribute" 대상을 건너뜁니다. ('$(GenerateTargetFrameworkAttribute)' == 'true')이(가) ('false' == 'true')(으)로 확인되었습니다.
+       "ComputeMIDLGeneratedCompileInputs" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCLInputPDBName" 대상("_ClCompile" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeCLInputPDBName" 대상을 빌드했습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "FindReferenceAssembliesForReferences" 대상("ComputeReferenceCLInput" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "FindReferenceAssembliesForReferences" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "GetReferencedVCProjectsInfo" 대상("ComputeReferenceCLInput" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '')이(가) ('' == '.vcxproj' and '' != '' and '' != '')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "GetReferencedVCProjectsInfo" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeReferenceCLInput" 대상("_ClCompile" 대상이 종속됨):
+       조건이 잘못되어 "WriteLinesToFile" 작업을 건너뜁니다. ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true')이(가) (''!='' and '' != 'true' and 'true' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "WriteLinesToFile" 작업을 건너뜁니다. ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true')이(가) (''!='' and '' != 'true' and 'true' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('$(_REFERENCE_DEBUG)'=='true')이(가) (''=='true')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "ComputeReferenceCLInput" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "WarnCompileDuplicatedFilename" 대상("_ClCompile" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())')이(가) ('' != 'true' and 'wmstest.cpp' != 'wmstest.cpp' and 'Debug\' == 'Debug\')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "WarnCompileDuplicatedFilename" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 파일에 있는 "FixupCLCompileOptions" 대상("_ClCompile" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "FixupCLCompileOptions" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForCl" 대상("_ClCompile" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "MakeDirsForCl" 대상을 빌드했습니다.
+       "_SelectedFiles" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "GenerateTargetFrameworkMonikerAttribute" 대상을 건너뜁니다. ('$(GenerateTargetFrameworkAttribute)' == 'true')이(가) ('false' == 'true')(으)로 확인되었습니다.
+       "ComputeMIDLGeneratedCompileInputs" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ComputeCLInputPDBName" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ComputeReferenceCLInput" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "WarnCompileDuplicatedFilename" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "FixupCLCompileOptions" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "SelectCustomBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "SetModuleDependencies" 대상을 건너뜁니다. ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true')이(가) ('' != 'true' and '' == 'true')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "SelectClCompile" 대상("ClCompile" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "SelectClCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "SelectAnalysisManifest" 대상을 건너뜁니다. ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='')이(가) ('false'=='true' and ''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "ManagedIncrementalBuildPreProcessDependencyGraph" 대상을 건너뜁니다. ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True')이(가) ('wmstest.cpp' != '' and 'false' == 'True')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 파일에 있는 "ClCompile" 대상("_ClCompile" 대상이 종속됨):
+       조건이 잘못되어 "Delete" 작업을 건너뜁니다. ('%(ClCompile.DebugInformationFormat)' != '' and '%(ClCompile.DebugInformationFormat)' != 'None' and '%(ClCompile.DebugInformationFormat)' != 'OldStyle' and '%(ClCompile.ProgramDataBaseFileName)' != '' and !Exists(%(ClCompile.ProgramDataBaseFileName)))이(가) ('EditAndContinue' != '' and 'EditAndContinue' != 'None' and 'EditAndContinue' != 'OldStyle' and 'Debug\vc142.pdb' != '' and !Exists(Debug\vc142.pdb))(으)로 확인되었습니다.
+       조건이 잘못되어 "MultiToolTask" 작업을 건너뜁니다. ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(ClCompile.CompilerIteration)' == 'Modules')이(가) ('' != 'true' and '' == 'Modules')(으)로 확인되었습니다.
+       조건이 잘못되어 "MultiToolTask" 작업을 건너뜁니다. ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' == 'true')이(가) ('' != 'true' and '' == '' and 'false' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "CL" 작업을 건너뜁니다. ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true')이(가) ('NotUsing' == 'Create' and ''!='true' and '' == '' and 'false' != 'true')(으)로 확인되었습니다.
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "CL" 작업을 사용합니다.
+       "CL" 작업
+         읽기 추적 로그:
+         	Debug\Project1.tlog\CL.read.1.tlog
+         D:\WORK\상황도\PROJECT1\WMSTEST.CPP에 대한 출력:
+         	D:\WORK\상황도\PROJECT1\DEBUG\WMSTEST.OBJ
+         모든 출력이 최신 상태입니다.
+       "CL" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "ClCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "RunSelectedFileNativeCodeAnalysis" 대상을 건너뜁니다. ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='')이(가) ('false'=='true' and ''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "ManagedIncrementalBuildPostProcessDependencyGraph" 대상을 건너뜁니다. ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True')이(가) ('wmstest.cpp' != '' and 'false' == 'True')(으)로 확인되었습니다.
+       조건이 잘못되어 "NoAnalysisToolEnabledWarning" 대상을 건너뜁니다. ('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='false' AND '$(EnableClangTidyCodeAnalysis)'=='false')이(가) ('false'=='true' AND 'true'=='false' AND 'false'=='false')(으)로 확인되었습니다.
+       조건이 잘못되어 "RunSelectedFileClangTidy" 대상을 건너뜁니다. ('$(RunClangCppAnalysis)'=='true' AND '$(SelectedFiles)'!='')이(가) ('false'=='true' AND ''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "MicrosoftAnalysisIncompatiableWithClangCl" 대상을 건너뜁니다. ('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='true' AND '$(UseClangCl)'=='true')이(가) ('false'=='true' AND 'true'=='true' AND ''=='true')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "AfterClCompile" 대상("_ClCompile" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "AfterClCompile" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "_ClCompile" 대상("_BuildCompileAction" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "_ClCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "_ResGen" 대상을 건너뜁니다. ('@(EmbeddedResource)'!='')이(가) (''!='')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "BeforeResourceCompile" 대상("_ResourceCompile" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "BeforeResourceCompile" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForResourceCompile" 대상("_ResourceCompile" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "MakeDirsForResourceCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "ResourceCompile" 대상을 건너뜁니다. ('@(ResourceCompile)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "AfterResourceCompile" 대상("_ResourceCompile" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "AfterResourceCompile" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "_ResourceCompile" 대상("_BuildCompileAction" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "_ResourceCompile" 대상을 빌드했습니다.
+       조건이 잘못되어 "_ImpLib" 대상을 건너뜁니다. ('$(ImpLibCompiled)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+       조건이 잘못되어 "_Lib" 대상을 건너뜁니다. ('$(LibCompiled)' == 'true')이(가) ('' == 'true')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "AfterBuildCompileEvent" 대상("_BuildCompileAction" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "AfterBuildCompileEvent" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "_BuildCompileAction" 대상("BuildCompile" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "_BuildCompileAction" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildCompile" 대상("Build" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "BuildCompile" 대상을 빌드했습니다.
+       "PrepareProjectReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "BuildLinkTraverse" 대상("BuildLink" 대상이 종속됨):
+       조건이 잘못되어 "MSBuild" 작업을 건너뜁니다. ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true')이(가) ('' == 'true' and '' != '' and '' != ''  and '' == 'true')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "BuildLinkTraverse" 대상을 빌드했습니다.
+       "PrepareForBuild" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ResolveReferences" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeLegacyManifestEmbedding" 대상("_BuildLinkAction" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('$(RevertManifestEmbedding)' == 'true' and '$(_LegacyManifestEmbeddingDebug)' == 'true')이(가) ('' == 'true' and '' == 'true')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "ComputeLegacyManifestEmbedding" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "BeforeLink" 대상("_Link" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "BeforeLink" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeRCOutputs" 대상("ComputeRCGeneratedLinkInputs" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeRCOutputs" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeRCGeneratedLinkInputs" 대상("_Link" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeRCGeneratedLinkInputs" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeManifestGeneratedLinkerInputs" 대상("_Link" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeManifestGeneratedLinkerInputs" 대상을 빌드했습니다.
+       "ComputeCustomBuildOutput" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       조건이 잘못되어 "GenerateTargetFrameworkMonikerAttribute" 대상을 건너뜁니다. ('$(GenerateTargetFrameworkAttribute)' == 'true')이(가) ('false' == 'true')(으)로 확인되었습니다.
+       "ComputeMIDLGeneratedCompileInputs" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ComputeCLInputPDBName" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "ComputeReferenceCLInput" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "WarnCompileDuplicatedFilename" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+       "FixupCLCompileOptions" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCLOutputs" 대상("ComputeCLGeneratedLinkInputs" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeCLOutputs" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeCLGeneratedLinkInputs" 대상("_Link" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeCLGeneratedLinkInputs" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeLinkInputsFromProject" 대상("_Link" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeLinkInputsFromProject" 대상을 빌드했습니다.
+       조건이 잘못되어 "ComputeReferenceLinkInputs" 대상을 건너뜁니다. (@(ProjectReference) != '')이(가) ( != '')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "ComputeManifestInputsTargets" 대상("_Link" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeManifestInputsTargets" 대상을 빌드했습니다.
+       조건이 잘못되어 "ManifestResourceCompile" 대상을 건너뜁니다. ('$(EmbedManifestBy)' == 'LINK' and '@(Manifest)' != '')이(가) ('LINK' == 'LINK' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "AssignWinFXEmbeddedResource" 대상을 건너뜁니다. ('@(WinFXEmbeddedResource)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "AssignTargetPaths" 대상("PrepareResourceNames" 대상이 종속됨):
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "AssignTargetPath" 작업을 사용합니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+       "AssignTargetPath" 작업
+       "AssignTargetPath" 작업을 실행했습니다.
+       조건이 잘못되어 "AssignTargetPath" 작업을 건너뜁니다. ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest')이(가) (''=='' and ''=='.manifest')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "AssignTargetPaths" 대상을 빌드했습니다.
+       "AssignTargetPaths" 대상을 건너뜁니다. 이전에 빌드되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "SplitResourcesByCulture" 대상("PrepareResourceNames" 대상이 종속됨):
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(ResxWithNoCulture)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(ResxWithCulture)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(NonResxWithCulture)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       조건이 잘못되어 "Warning" 작업을 건너뜁니다. ('@(NonResxWithNoCulture)'!='')이(가) (''!='')(으)로 확인되었습니다.
+       "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" 어셈블리에서 "AssignCulture" 작업을 사용합니다.
+       "AssignCulture" 작업
+       "AssignCulture" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "SplitResourcesByCulture" 대상을 빌드했습니다.
+       조건이 잘못되어 "CreateManifestResourceNames" 대상을 건너뜁니다. ('@(EmbeddedResource)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "CreateCustomManifestResourceNames" 대상("PrepareResourceNames" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "CreateCustomManifestResourceNames" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" 파일에 있는 "PrepareResourceNames" 대상("_Link" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "PrepareResourceNames" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "MakeDirsForLink" 대상("_Link" 대상이 종속됨):
+       "MakeDir" 작업
+       "MakeDir" 작업을 실행했습니다.
+     1>"Project1.vcxproj" 프로젝트에 "MakeDirsForLink" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" 파일에 있는 "DoLinkOutputFilesMatch" 대상("_Link" 대상이 종속됨):
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('@(_OutputFileFromLink)' == '')이(가) ('D:\work\상황도\Project1\Debug\Project1.exe' == '')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.FullPath)' != '$([System.IO.Path]::GetFullPath($(TargetPath)))')이(가) ('D:\work\상황도\Project1\Debug\Project1.exe' != '' and 'D:\work\상황도\Project1\Debug\Project1.exe' != 'D:\work\상황도\Project1\Debug\Project1.exe')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Extension)' != '' and '%(_OutputFileFromLink.Extension)' != '$(TargetExt)')이(가) ('D:\work\상황도\Project1\Debug\Project1.exe' != '' and '.exe' != '' and '.exe' != '.exe')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Filename)' != '' and '%(_OutputFileFromLink.Filename)' != '$(TargetName)')이(가) ('D:\work\상황도\Project1\Debug\Project1.exe' != '' and 'Project1' != '' and 'Project1' != 'Project1')(으)로 확인되었습니다.
+       조건이 잘못되어 "VCMessage" 작업을 건너뜁니다. ('%(Link.MinimumRequiredVersion)' != '' and ('%(Link.Subsystem)' == '' or '%(Link.Subsystem)' == 'NotSet'))이(가) ('' != '' and ('Console' == '' or 'Console' == 'NotSet'))(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "DoLinkOutputFilesMatch" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 파일에 있는 "PreLinkEvent" 대상("_Link" 대상이 종속됨):
+       조건이 잘못되어 "Message" 작업을 건너뜁니다. ('%(PreLinkEvent.Message)' != '' and '%(PreLinkEvent.Command)' != '')이(가) ('' != '' and '' != '')(으)로 확인되었습니다.
+       조건이 잘못되어 "Exec" 작업을 건너뜁니다. ('%(PreLinkEvent.Command)' != '')이(가) ('' != '')(으)로 확인되었습니다.
+     1>"Project1.vcxproj" 프로젝트에 "PreLinkEvent" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 파일에 있는 "ComputeLinkSwitches" 대상("Link" 대상이 종속됨):
+     1>"Project1.vcxproj" 프로젝트에 "ComputeLinkSwitches" 대상을 빌드했습니다.
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트의 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" 파일에 있는 "Link" 대상("_Link" 대상이 종속됨):
+       "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll" 어셈블리에서 "Link" 작업을 사용합니다.
+       "Link" 작업
+         쓰기 추적 로그:
+         	Debug\Project1.tlog\link.write.1.tlog
+         	Debug\Project1.tlog\link-cvtres.write.1.tlog
+         	Debug\Project1.tlog\link-rc.write.1.tlog
+         읽기 추적 로그:
+         	Debug\Project1.tlog\link.read.1.tlog
+         	Debug\Project1.tlog\link-cvtres.read.1.tlog
+         	Debug\Project1.tlog\link-rc.read.1.tlog
+         추적 로그에 D:\WORK\상황도\PROJECT1\DEBUG\WMSTEST.OBJ에 대한 출력이 없습니다. 소스를 컴파일해야 합니다.
+         추적 로그에 D:\WORK\상황도\PROJECT1\DEBUG\WMSTEST.OBJ 출력에 대한 종속성이 없습니다. 소스를 컴파일해야 합니다.
+         도구로 전달된 환경 변수:
+           VS_UNICODE_OUTPUT=1496
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\work\상황도\Project1\Debug\Project1.exe" /INCREMENTAL /ILK:"Debug\Project1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\work\상황도\Project1\Debug\Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\work\상황도\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\wmstest.obj
+         추적 명령:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Tracker.exe /a /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i "D:\work\상황도\Project1\Debug\Project1.tlog" /r "D:\WORK\상황도\PROJECT1\DEBUG\WMSTEST.OBJ" /b MSBuildConsole_CancelEvent1dbfb1832bf840b29cb1cdb972e81930  /c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe"  /ERRORREPORT:PROMPT /OUT:"D:\work\상황도\Project1\Debug\Project1.exe" /INCREMENTAL /ILK:"Debug\Project1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\work\상황도\Project1\Debug\Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\work\상황도\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\wmstest.obj
+     1>wmstest.obj : error LNK2019: __imp__curl_easy_strerror"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+     1>wmstest.obj : error LNK2019: __imp__curl_easy_init"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+     1>wmstest.obj : error LNK2019: __imp__curl_easy_setopt"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+     1>wmstest.obj : error LNK2019: __imp__curl_easy_perform"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+     1>wmstest.obj : error LNK2019: __imp__curl_easy_cleanup"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+     1>D:\work\상황도\Project1\Debug\Project1.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
+         명령이 종료되었습니다(코드: 1120).
+       "Link" 작업을 실행했습니다. - 실패
+     1>"Project1.vcxproj" 프로젝트에 "Link" 대상을 빌드했습니다. - 실패
+     1>"D:\work\상황도\Project1\Project1.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+       "D:\work\상황도\Project1\Project1.vcxproj"(Build 대상)(1) ->
+       (Link 대상) -> 
+         wmstest.obj : error LNK2019: __imp__curl_easy_strerror"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+         wmstest.obj : error LNK2019: __imp__curl_easy_init"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+         wmstest.obj : error LNK2019: __imp__curl_easy_setopt"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+         wmstest.obj : error LNK2019: __imp__curl_easy_perform"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+         wmstest.obj : error LNK2019: __imp__curl_easy_cleanup"bool __cdecl fetchWMSImage(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?fetchWMSImage@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+         D:\work\상황도\Project1\Debug\Project1.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
+
+    경고 0개
+    오류 6개
+
+경과 시간: 00:00:00.74
