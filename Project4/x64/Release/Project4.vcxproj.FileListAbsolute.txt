@@ -1,0 +1,2 @@
+D:\work\상황도\Project4\x64\Release\Project4.exe
+D:\dev\Project4\x64\Release\Project4.exe

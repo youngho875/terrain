@@ -1,0 +1,6 @@
+﻿  terrain.cpp
+D:\work\상황도\Project4\terrain.cpp(95,5): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+D:\work\상황도\Project4\terrain.h(37): message : 'main'의 이전 정의를 참조하십시오.
+  TerrainServerClient.cpp
+D:\work\상황도\Project4\TerrainServerClient.cpp(50,68): error C3867: 'TerrainServerClient::WriteCallback': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+  코드를 생성하고 있습니다...
